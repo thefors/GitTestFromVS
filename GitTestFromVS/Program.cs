@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.Write("How would you say this in your language? ");
+            string reply = Console.ReadLine();
         }
     }
 }
